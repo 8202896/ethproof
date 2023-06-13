@@ -18,6 +18,7 @@ Copy and paste the following code into the file:
 /////
 
 pragma solidity 0.8.18;
+
 contract MyToken {
 
     string public tokenName = "Shizuko";
