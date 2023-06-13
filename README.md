@@ -42,22 +42,36 @@ function burn (address _address, uint _value) public {
 
 ///////
 to test if the code is working, click the icon under the "search in files", check the "auto compile checkbox.
+
 under the "advance configurations" click the "compile [NAME OF THE FILE].sol and "compile and run.
+
 after that, click the "deploy and run transactions where we can see an account
+
 click the "copy" icon on the account and then click "deploy"
+
 we can test the functionality of the code under the dropdown of the "deployed contracts" 
+
 paste the copied account on the "_address" textbox, in the mint where we can put an amount we want then just click "transact"
+
 when you click "totalSupply" we should see the ammount that we entered in the "_value"
+
 on the burn section, the _value that you will put in here will be deducted
+
 we can check the balance of our account when we paste the copied account on the address text box
+
 we can also check the token name by clicking tokenName
+
 we should also see the balance of account is greater than or equal to the amount that is supposed to be burned.
 
+
 Authors
-Contributors names and contact info
+
 Metacrafters Matt
+
 8202896@ntc.edu.ph
+
 Metacrafter Chris
+
 @metacraftersio
 
 License
