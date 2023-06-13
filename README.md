@@ -1,4 +1,4 @@
-Project titke: Create a Token
+Project title: Create a Token
 On this project we are going to use solidity which is a programming language designed for coding contracts on a blockchain. 
 The purpose of this project is to test students how much they know and how does the transactions work on the blockchain. 
 
